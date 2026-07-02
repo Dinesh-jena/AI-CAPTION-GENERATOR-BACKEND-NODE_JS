@@ -16,7 +16,6 @@ A scalable backend built with **Node.js**, **Express.js**, **MongoDB**, **Socket
 - Socket.IO
 - Google Gemini API
 - dotenv
-- CORS
 
 ---
 
